@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fateh999&label=Profile%20views&color=0e75b6&style=flat" alt="fateh999" /> </p>
 
-- 🔭 I’m currently working on [react-native-audio-player-hooks](https://github.com/fateh999/react-native-audio-player-hooks)
-
-- 🌱 I’m currently learning **Flutter, Swift UI, Jetpack Compose**
-
-- 👯 I’m looking to collaborate on [react-native-paper-form-builder](https://github.com/fateh999/react-native-paper-form-builder)
-
 - 💬 Ask me about **React Native, React.js**
 
 - 📫 How to reach me **farooquifateh184@gmail.com**
